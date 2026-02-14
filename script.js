@@ -75,6 +75,11 @@ const updateCounter = () => {
   const seconds = totalSeconds % 60;
 
   loveCounter.textContent = `${days} dias · ${hours} horas · ${minutes} minutos · ${seconds} segundos`;
+  
+  // Trigger animation de palpitación
+  loveCounter.classList.remove('pulse');
+  void loveCounter.offsetWidth; // Reflow para reiniciar animation
+  loveCounter.classList.add('pulse');
 };
 
 updateCounter();
