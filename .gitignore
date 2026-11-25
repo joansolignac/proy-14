@@ -1,0 +1,5 @@
+node_modules/
+dist/
+/.codex/pipeline/
+/.agents/skills/dev-pipeline/
+pipeline-*.log*

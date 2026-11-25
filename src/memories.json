@@ -1,0 +1,121 @@
+[
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-1.jpg",
+    "date": "31 Jul 2021",
+    "title": "Tomos una familia",
+    "description": "Nuestro primer año juntos."
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-2.jpg",
+    "date": "1 Dic 2021",
+    "title": "Un amanecer tan bello como tú",
+    "description": "Nos tomamos fotitos cuando vivia en la José Galvéz"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-3.jpg",
+    "date": "1 May 2022",
+    "title": "Nuestro Segundo Año Juntos",
+    "description": "Cuando fuimos de visita al múseo"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-4.jpg",
+    "date": "13 Nov 2023",
+    "title": "Nuestro Tercer Año Juntos",
+    "description": "Cuando fuimos a la playita por tu cumple"
+  },
+  {
+    "type": "video",
+    "src": "resources/videos/video-1.mp4",
+    "date": "4 may 2024",
+    "title": "Nuestro Cuarto Año Juntos",
+    "description": "Nosotros dandonos abachobecho como te gusta, amor"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-5.jpg",
+    "date": "26 dic 2024",
+    "title": "Cerrando el año con bbita",
+    "description": "Una foto loca de nosotros nunca puede faltar"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-6.jpg",
+    "date": "8 mar 2025",
+    "title": "Nuestro Quinto Año Juntos",
+    "description": "Gracias por venir a verme a mi cumple, te amo mucho"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-7.jpg",
+    "date": "28 mar 2025",
+    "title": "En tu graduación",
+    "description": "Orgullo de ti mi amor por todo lo que lograste y lograrás"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-8.jpg",
+    "date": "1 may 2025",
+    "title": "Nosotros Durmiendo Juntos",
+    "description": "Momentos felices contigo"
+  },
+  {
+    "type": "video",
+    "src": "resources/videos/video-2.mp4",
+    "date": "1 ago 2025",
+    "title": "En un hermoso lugar junto a ti",
+    "description": "Gracias por compartir hermosos momentos junto a ti"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-9.jpg",
+    "date": "12 sep 2025",
+    "title": "Nosotros siempre guapos",
+    "description": "Salidita al oriental a comer empanaditas"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-10.jpg",
+    "date": "26 sep 2025",
+    "title": "Nosotros modo lego",
+    "description": "Espero que te haya gustado el regalito, te lo di con mucho amor"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-11.jpg",
+    "date": "23 nov 2025",
+    "title": "Cuando fuimos a ver a Bareto",
+    "description": "Como siempre mi novia una hermosura, ese día nos cansamos de bailar y pasarla bonito"
+  },
+  {
+    "type": "video",
+    "src": "resources/videos/video-3.mp4",
+    "date": "7 dic 2025",
+    "title": "Otro buen recuerdo juntos",
+    "description": "Amo verte feliz"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-12.jpg",
+    "date": "24 dic 2025",
+    "title": "Navidad Juntos",
+    "description": "Estar navidad junto a ti es el mejor regalo que puedo tener, te amo Puchi"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-13.jpg",
+    "date": "3 ene 2026",
+    "title": "Modo Gamer Junto A TI",
+    "description": "Haciendo nuevas actividades junto a ti"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-14.jpg",
+    "date": "14 ene 2026",
+    "title": "Dando de comer a tus hijos",
+    "description": "Ellos te quieren tanto como yo"
+  }
+]
