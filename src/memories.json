@@ -117,5 +117,68 @@
     "date": "14 ene 2026",
     "title": "Dando de comer a tus hijos",
     "description": "Ellos te quieren tanto como yo"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-15.jpg",
+    "date": "21 feb",
+    "title": "Nuestra Primera Boda Juntos",
+    "description": "En un futuro será nuestra jeje"
+  },
+  {
+    "type": "video",
+    "src": "resources/videos/video-4.mp4",
+    "date": "13 mar 2026",
+    "title": "Tú con nuestro hijo coti",
+    "description": "Los quiero mucho."
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-16.jpg",
+    "date": "28 mar 2026",
+    "title": "Nosotros en nuestra granjita",
+    "description": "tu cultivando tus fresitas jeje"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-17.jpg",
+    "date": "23 jun 2026",
+    "title": "Nosotros juntitos un día antes de San Juan",
+    "description": "El día siguiente te lleve tus juanes, amorcito."
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-18.jpg",
+    "date": "26 jun 2026",
+    "title": "No se que le estaba haciendo al Coti",
+    "description": "tampoco sé quien nos tomo la foto ajajaj"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-19.jpg",
+    "date": "3 ago 2026",
+    "title": "Un paisaje tan bonito como tú",
+    "description": "te quiero puchi."
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-20.jpeg",
+    "date": "27 ago 2026",
+    "title": "Nosotros esperando el eclipse",
+    "description": "Nosotros sentaditos en el puente viendo al cielo jeje"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-21.jpg",
+    "date": "24 oct 2026",
+    "title": "Una bonita cita junto a ti",
+    "description": "Fue muy lindo escuchar canciones a tu lado y dormid contigo"
+  },
+  {
+    "type": "img",
+    "src": "resources/timeline/foto-22.jpg",
+    "date": "16 nov 2026",
+    "title": "Cuando te fuiste de viaje por 10 día",
+    "description": "te extrañe mucho :c"
   }
 ]
